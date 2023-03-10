@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Pagination template📑
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Go ahead and fork the repository or download to incorporate pagination component. 
+Install `npm install react-js-pagination`
 
 ## Available Scripts
 
