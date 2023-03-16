@@ -1,6 +1,6 @@
 # Pagination template📑
 
-Go ahead and fork the repository or download to incorporate pagination component. </br>
+Go ahead and fork the repository or download to incorporate pagination component. Using react-js-pagination. </br>
 Install `npm install react-js-pagination`
 
 ## Available Scripts
